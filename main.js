@@ -7,3 +7,18 @@ function showAlert(message, className){
 
     div.appendChild(document.creat)
 }
+
+let arr = {
+    aidar: '',
+    age: 67,
+    koki
+}
+
+
+
+
+
+
+
+
+
